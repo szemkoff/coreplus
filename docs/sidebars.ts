@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/types';
+import type {Sidebars} from '@docusaurus/plugin-content-docs/src/sidebars/types';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -12,20 +12,22 @@ import type {SidebarsConfig} from '@docusaurus/types';
 
  Create as many sidebars as you want.
  */
-const sidebars: SidebarsConfig = {
+const sidebars: Sidebars = {
   tutorialSidebar: [
-    'intro',
-    'technical-specs',
-    'panels',
-    'modules',
-    'connections',
-    'technical-drawings',
+    {type: 'doc', id: 'intro'},
+    {type: 'doc', id: 'technical-specs'},
+    {type: 'doc', id: 'panels'},
+    {type: 'doc', id: 'modules'},
+    {type: 'doc', id: 'connections'},
+    {type: 'doc', id: 'technical-drawings'},
     {
       type: 'category',
       label: 'Tutorial - Extras',
+      collapsed: true,
+      collapsible: true,
       items: [
-        'tutorial-extras/translate-your-site',
-        'tutorial-extras/manage-docs-versions',
+        {type: 'doc', id: 'tutorial-extras/translate-your-site'},
+        {type: 'doc', id: 'tutorial-extras/manage-docs-versions'},
       ],
     },
   ],

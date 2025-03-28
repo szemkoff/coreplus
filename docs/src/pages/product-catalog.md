@@ -4,6 +4,10 @@
 
 ### Wall Panel Series
 
+![Wall Panel System](/img/layouts/panelized_module_layout.png)
+
+Our wall panel systems are designed for maximum efficiency and versatility. Each panel is engineered to provide optimal insulation, structural integrity, and ease of installation.
+
 #### WP-200 Standard Wall Panel
 - Dimensions: 1.2m × 2.7m × 200mm
 - Price: $380 per panel
@@ -50,6 +54,10 @@
 
 ### Floor Panel Series
 
+![Floor Panel System](/img/layouts/floor_layout.png)
+
+Our floor panels are engineered for superior load-bearing capacity and stability. Each panel features our innovative leveling system for perfect installation every time.
+
 #### FP-250 Heavy-Duty Floor Panel
 - Dimensions: 1.2m × 1.2m × 250mm
 - Price: $420 per panel
@@ -67,6 +75,10 @@
 
 ### Roof Panel Series
 
+![Roof Panel System](/img/layouts/optimal_module_layout.png)
+
+Our roof panels combine structural integrity with advanced weatherproofing. Each panel is designed to support solar installations and provide excellent thermal insulation.
+
 #### RP-200 Standard Roof Panel
 - Dimensions: 1.2m × 1.2m × 200mm
 - Price: $380 per panel
@@ -83,6 +95,10 @@
 - Lead Time: 2-3 weeks
 
 ## Military-Grade Panel Systems
+
+![Military Grade System](/img/layouts/max_size_module_layout.png)
+
+Our military-grade panels are engineered to meet the most demanding security and durability requirements. Each panel undergoes rigorous testing to ensure compliance with military specifications.
 
 ### Military Wall Panel Series
 
@@ -451,4 +467,25 @@
 - Design consultation required
 - Minimum order value $50,000
 - 8-10 week lead time
-- Custom testing available 
+- Custom testing available
+
+## Cost Analysis
+
+Our panels are designed to provide the best value for your investment. Below are cost comparisons and distribution analyses:
+
+![Component Costs](/img/costs/component_costs_bar.png)
+
+![Cost Distribution](/img/costs/cost_distribution_pie.png)
+
+## Technical Drawings
+
+For detailed technical specifications and drawings, please refer to our comprehensive documentation:
+
+- [View Technical Drawings](../docs/technical-drawings)
+- [Download Full Specifications](../docs/technical-specs)
+
+## Ready to Order?
+
+Contact our sales team to discuss your project requirements and get a customized quote:
+
+[Contact Sales Team](./contact) 
