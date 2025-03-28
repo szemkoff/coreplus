@@ -21,16 +21,7 @@ const sidebars: Sidebars = {
     {type: 'doc', id: 'connections'},
     {type: 'doc', id: 'technical-drawings'},
     {type: 'doc', id: 'plans'},
-    {
-      type: 'category',
-      label: 'Tutorial - Extras',
-      collapsed: true,
-      collapsible: true,
-      items: [
-        {type: 'doc', id: 'tutorial-extras/translate-your-site'},
-        {type: 'doc', id: 'tutorial-extras/manage-docs-versions'},
-      ],
-    },
+    {type: 'doc', id: 'assembly-guide'},
   ],
 };
 

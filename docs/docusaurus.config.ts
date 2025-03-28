@@ -112,6 +112,10 @@ const config: Config = {
               label: 'Assembly Guide',
               to: '/docs/assembly-guide',
             },
+            {
+              label: 'Construction Plans',
+              to: '/docs/plans',
+            },
           ],
         },
         {
@@ -141,10 +145,6 @@ const config: Config = {
             {
               label: 'Technical Drawings',
               to: '/docs/technical-drawings',
-            },
-            {
-              label: 'Construction Plans',
-              to: '/docs/plans',
             },
             {
               label: 'GitHub',
