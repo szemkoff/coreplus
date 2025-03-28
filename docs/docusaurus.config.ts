@@ -68,6 +68,16 @@ const config: Config = {
           position: 'left'
         },
         {
+          to: '/docs/technical-drawings',
+          label: 'Technical Drawings',
+          position: 'left'
+        },
+        {
+          to: '/docs/plans',
+          label: 'Construction Plans',
+          position: 'left'
+        },
+        {
           to: '/cost-calculator',
           label: 'Cost Calculator',
           position: 'left'
@@ -127,6 +137,14 @@ const config: Config = {
             {
               label: 'Cost Calculator',
               to: '/cost-calculator',
+            },
+            {
+              label: 'Technical Drawings',
+              to: '/docs/technical-drawings',
+            },
+            {
+              label: 'Construction Plans',
+              to: '/docs/plans',
             },
             {
               label: 'GitHub',

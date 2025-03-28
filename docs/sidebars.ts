@@ -20,6 +20,7 @@ const sidebars: Sidebars = {
     {type: 'doc', id: 'modules'},
     {type: 'doc', id: 'connections'},
     {type: 'doc', id: 'technical-drawings'},
+    {type: 'doc', id: 'plans'},
     {
       type: 'category',
       label: 'Tutorial - Extras',
