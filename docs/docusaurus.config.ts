@@ -10,13 +10,13 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://stantheman.github.io',
+  url: 'https://szemkoff.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/House_Construction_Estimate/',
+  baseUrl: '/coreplus/',
 
   // GitHub pages deployment config
-  organizationName: 'stantheman',
-  projectName: 'House_Construction_Estimate',
+  organizationName: 'szemkoff',
+  projectName: 'coreplus',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -35,7 +35,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/stantheman/House_Construction_Estimate/tree/main/docs/',
+          editUrl: 'https://github.com/szemkoff/coreplus/tree/main/docs/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -76,7 +76,7 @@ const config: Config = {
           position: 'left'
         },
         {
-          href: 'https://github.com/stantheman/House_Construction_Estimate',
+          href: 'https://github.com/szemkoff/coreplus',
           label: 'GitHub',
           position: 'right',
         },
@@ -128,7 +128,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/stantheman/House_Construction_Estimate',
+              href: 'https://github.com/szemkoff/coreplus',
             },
           ],
         },
