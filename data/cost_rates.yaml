@@ -1,0 +1,72 @@
+# Modular Construction Cost Rates
+base_rates:
+  foundation_prep: 12.00
+  core_installation: 95.00
+  wall_panels: 55.00
+  floor_panels: 65.00
+  roof_panels: 75.00
+  electrical: 35.00
+  plumbing: 45.00
+  hvac: 25.00
+  finishes: 40.00
+
+core_module_rates:
+  bathroom_module: 12000.00   # Per bathroom unit
+  plumbing_core: 15000.00    # Central plumbing system
+  electrical_core: 8000.00    # Main electrical distribution
+  hvac_core: 10000.00        # Central HVAC system
+
+panel_rates:
+  wall_panel_1000x100: 280.00  # Per panel
+  wall_panel_1000x150: 320.00  # Per panel
+  wall_panel_1000x200: 380.00  # Per panel (1.2m x 2.7m)
+  floor_panel: 420.00  # Per panel (1.2m x 1.2m)
+  roof_panel: 380.00  # Per panel (1.2m x 1.2m)
+  connection_kit: 45.00  # Per connection point
+
+furniture_rates:
+  bed_complete: 800.00        # Per unit (frame, mattress, etc.)
+  sofa: 600.00               # Per unit
+  table: 250.00              # Per unit
+  chairs: 150.00             # Per set of 4
+  storage: 400.00            # Per unit
+
+room_finishing_rates:
+  flooring: 45.00            # Per m²
+  painting: 25.00            # Per m²
+  lighting: 120.00           # Per point
+  electrical_outlets: 45.00   # Per point
+
+labor_rates:
+  specialized_installation: 95.00  # Per hour
+  general_assembly: 75.00  # Per hour
+  finishing_work: 85.00  # Per hour
+
+equipment_rates:
+  container_transport: 3000.00  # Per container
+  crane_rental: 1200.00  # Per day
+  tools_and_equipment: 800.00  # Per day
+
+markup_rates:
+  contractor_fee: 0.12           # 12% contractor fee
+  contingency: 0.10              # 10% contingency
+
+certification_rates:
+  fire_resistance_testing: 6000.00  # E150 certification
+  quality_control: 4500.00          # Per unit
+  structural_certification: 3500.00  # Per building 
+
+# Cost rates per square meter or linear meter (in USD)
+foundation_per_sqm: 150.00
+floor_structure_per_sqm: 200.00
+wall_structure_per_sqm: 180.00
+roof_per_sqm: 220.00
+bathroom_fixtures_per_sqm: 800.00
+kitchen_fixtures_per_sqm: 600.00
+interior_finishes_per_sqm: 250.00
+electrical_per_sqm: 120.00
+plumbing_per_sqm: 150.00
+hvac_per_sqm: 180.00
+windows_doors_per_m: 400.00
+insulation_per_sqm: 80.00
+furniture_per_sqm: 300.00 

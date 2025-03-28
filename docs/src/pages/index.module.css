@@ -1,0 +1,117 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.main {
+  padding: 4rem 0;
+}
+
+.feature {
+  padding: 2rem;
+  text-align: center;
+  background: var(--ifm-background-surface-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+  height: 100%;
+}
+
+.feature:hover {
+  transform: translateY(-5px);
+}
+
+.featureIcon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.feature h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-primary);
+}
+
+.feature p {
+  margin-bottom: 1.5rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.feature a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.feature a:hover {
+  text-decoration: underline;
+}
+
+.cta {
+  margin-top: 4rem;
+  padding: 4rem 0;
+  background: var(--ifm-color-primary-lightest);
+  border-radius: 8px;
+}
+
+.cta h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-primary-darkest);
+}
+
+.cta p {
+  font-size: 1.2rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.ctaButtons {
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+  }
+
+  .feature {
+    margin-bottom: 2rem;
+  }
+
+  .ctaButtons {
+    flex-direction: column;
+    margin-top: 2rem;
+  }
+}
