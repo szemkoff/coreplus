@@ -17,6 +17,8 @@ const config: Config = {
   // GitHub pages deployment config
   organizationName: 'szemkoff',
   projectName: 'coreplus',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -63,8 +63,8 @@ Welcome to ModularHouse Pro's advanced panelized construction system documentati
 
 1. [Review Technical Specifications](./technical-specs.md)
 2. [Explore Panel Systems](./panels.md)
-3. [Understand Assembly Process](./assembly-guide.md)
-4. [Calculate Costs](../cost-calculator.md)
+3. [Understand Assembly Process](/assembly-guide)
+4. [Calculate Costs](/cost-calculator)
 
 ## Why Choose ModularHouse Pro?
 
@@ -91,6 +91,6 @@ Welcome to ModularHouse Pro's advanced panelized construction system documentati
 
 ## Next Steps
 
-- [View Product Catalog](../product-catalog.md)
+- [View Product Catalog](/product-catalog)
 - [Download Technical Sheets](./technical-specs.md)
-- [Contact Sales Team](../contact.md)
+- [Contact Sales Team](/contact)
