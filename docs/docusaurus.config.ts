@@ -63,11 +63,6 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          to: '/docs/plans',
-          label: 'Construction Plans',
-          position: 'left'
-        },
-        {
           to: '/docs/technical-specs',
           label: 'Technical Specs',
           position: 'left'
@@ -97,10 +92,6 @@ const config: Config = {
               label: 'Assembly Guide',
               to: '/docs/assembly-guide',
             },
-            {
-              label: 'Construction Plans',
-              to: '/docs/plans',
-            },
           ],
         },
         {
@@ -126,10 +117,6 @@ const config: Config = {
             {
               label: 'Technical Specifications',
               to: '/docs/technical-specs',
-            },
-            {
-              label: 'Construction Plans',
-              to: '/docs/plans',
             },
             {
               label: 'GitHub',

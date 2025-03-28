@@ -9,37 +9,51 @@ sidebar_position: 6
 Our modular construction system is designed to accommodate various floor plans and configurations. Below are some example layouts and technical drawings.
 
 ### Base Module Layout
-![Floor Layout Overview](/img/layouts/floor_layout.png)
+<div className="image-container">
+  <img src="/coreplus/img/layouts/floor_layout.png" alt="Floor Layout Overview" />
+</div>
 
 ### Module Configurations
 1. **Single Module**
-   ![Single Module Layout](/img/layouts/single_module_layout.png)
+   <div className="image-container">
+     <img src="/coreplus/img/layouts/single_module_layout.png" alt="Single Module Layout" />
+   </div>
    - Basic unit configuration
    - Perfect for small spaces
    - Easily expandable
 
 2. **Optimal Module**
-   ![Optimal Module Layout](/img/layouts/optimal_module_layout.png)
+   <div className="image-container">
+     <img src="/coreplus/img/layouts/optimal_module_layout.png" alt="Optimal Module Layout" />
+   </div>
    - Balanced space utilization
    - Efficient material usage
    - Cost-effective design
 
 3. **Panelized Module**
-   ![Panelized Module Layout](/img/layouts/panelized_module_layout.png)
+   <div className="image-container">
+     <img src="/coreplus/img/layouts/panelized_module_layout.png" alt="Panelized Module Layout" />
+   </div>
    - Maximum flexibility
    - Custom configurations
    - Adaptable to various needs
 
 ## Technical Specifications
 
-### Component Costs
-![Component Costs](/img/costs/component_costs_bar.png)
+### Component Details
+<div className="image-container">
+  <img src="/coreplus/img/costs/component_costs_bar.png" alt="Component Details" />
+</div>
 
-### Cost Comparison
-![Cost Comparison](/img/costs/cost_comparison_bar.png)
+### System Overview
+<div className="image-container">
+  <img src="/coreplus/img/costs/cost_comparison_bar.png" alt="System Overview" />
+</div>
 
-### Cost Distribution
-![Cost Distribution](/img/costs/cost_distribution_pie.png)
+### System Distribution
+<div className="image-container">
+  <img src="/coreplus/img/costs/cost_distribution_pie.png" alt="System Distribution" />
+</div>
 
 ## Detailed Plans
 
