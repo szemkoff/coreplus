@@ -1,10 +1,98 @@
 # Product Catalog
 
+## Panel Systems
+
+Our comprehensive panel system forms the foundation of our modular construction approach. Each panel is engineered for maximum efficiency, durability, and ease of installation.
+
+[View Technical Specifications](/docs/technical-specs)
+
+### Wall Panels
+
+- Standard Size: 1.2m × 2.7m
+- R-Value: R-25
+- Fire Rating: Class A
+- Wind Resistance: 150mph
+
+[Learn More About Panels](/docs/panels)
+
+### Floor Panels
+
+- Size: 1.2m × 1.2m
+- Load Capacity: 4.8kPa
+- Integrated Utilities
+- Built-in Leveling
+
+[View Construction Plans](/docs/plans)
+
+### Roof Panels
+
+- Size: 1.2m × 1.2m
+- Solar-Ready Design
+- Weather-Resistant
+- R-30 Insulation
+
+[View Assembly Guide](/docs/assembly-guide)
+
+## Connection Systems
+
+Our proprietary connection system ensures rapid, secure assembly without specialized tools.
+
+### Quick-Lock Mechanism
+
+- Tool-free operation
+- Weather-tight sealing
+- Thermal break design
+- Perfect alignment
+
+[Learn More About Connections](/docs/connections)
+
+### Corner Connections
+
+- Enhanced strength
+- Triple sealing system
+- Double thermal break
+- Quick installation
+
+[View Technical Details](/docs/technical-specs)
+
+## Complete Modules
+
+Pre-fabricated modules combine our panels and connection systems into ready-to-assemble building components.
+
+### Standard Module
+
+- Width: 2.55m
+- Length: 12.0m
+- Height: 2.9m
+- Area: 30.6m²
+
+[Learn More About Modules](/docs/modules)
+
+### Optimal Module
+
+- Width: 3.0m
+- Length: 15.0m
+- Height: 3.0m
+- Area: 45.0m²
+
+[View Construction Plans](/docs/plans)
+
+## Support and Documentation
+
+For detailed technical information and support:
+
+- [Technical Specifications](/docs/technical-specs)
+- [Construction Plans](/docs/plans)
+- [Assembly Guide](/docs/assembly-guide)
+- [Contact Support](/contact)
+
 ## Standard Panel Systems
 
 ### Wall Panel Series
 
-![Wall Panel System](/img/layouts/panelized_module_layout.png)
+<div className="image-container">
+  <img src="/coreplus/img/layouts/panelized_module_layout.png" alt="Wall Panel System" />
+</div>
 
 Our wall panel systems are designed for maximum efficiency and versatility. Each panel is engineered to provide optimal insulation, structural integrity, and ease of installation.
 
@@ -54,7 +142,9 @@ Our wall panel systems are designed for maximum efficiency and versatility. Each
 
 ### Floor Panel Series
 
-![Floor Panel System](/img/layouts/floor_layout.png)
+<div className="image-container">
+  <img src="/coreplus/img/layouts/floor_layout.png" alt="Floor Panel System" />
+</div>
 
 Our floor panels are engineered for superior load-bearing capacity and stability. Each panel features our innovative leveling system for perfect installation every time.
 
@@ -75,7 +165,9 @@ Our floor panels are engineered for superior load-bearing capacity and stability
 
 ### Roof Panel Series
 
-![Roof Panel System](/img/layouts/optimal_module_layout.png)
+<div className="image-container">
+  <img src="/coreplus/img/layouts/optimal_module_layout.png" alt="Roof Panel System" />
+</div>
 
 Our roof panels combine structural integrity with advanced weatherproofing. Each panel is designed to support solar installations and provide excellent thermal insulation.
 
@@ -96,7 +188,9 @@ Our roof panels combine structural integrity with advanced weatherproofing. Each
 
 ## Military-Grade Panel Systems
 
-![Military Grade System](/img/layouts/max_size_module_layout.png)
+<div className="image-container">
+  <img src="/coreplus/img/layouts/max_size_module_layout.png" alt="Military Grade System" />
+</div>
 
 Our military-grade panels are engineered to meet the most demanding security and durability requirements. Each panel undergoes rigorous testing to ensure compliance with military specifications.
 
@@ -481,11 +575,11 @@ Our panels are designed to provide the best value for your investment. Below are
 
 For detailed technical specifications and drawings, please refer to our comprehensive documentation:
 
-- [View Technical Drawings](../docs/technical-drawings)
-- [Download Full Specifications](../docs/technical-specs)
+- [View Technical Drawings](/docs/technical-drawings)
+- [View Technical Specifications](/docs/technical-specs)
 
 ## Ready to Order?
 
 Contact our sales team to discuss your project requirements and get a customized quote:
 
-[Contact Sales Team](./contact) 
+[Contact Sales Team](/contact) 

@@ -2,107 +2,182 @@
 sidebar_position: 1
 ---
 
-# Introduction to ModularHouse Pro
+# Introduction to Core+ Modular Construction
 
-Welcome to ModularHouse Pro's advanced panelized construction system documentation. Our innovative approach to modular construction combines speed, efficiency, and quality to deliver superior housing solutions.
+## Overview
 
-![Floor Layout Overview](/img/layouts/floor_layout.png)
+Core+ is an advanced modular construction system that combines innovative design, superior materials, and efficient assembly methods to create high-quality, sustainable buildings. Our system is designed for maximum flexibility, durability, and ease of installation.
 
 ## Key Features
 
-### 1. Advanced Panel System
-- Standard Panel Size: 1.2m × 2.7m (4' × 9')
-- High-performance SIP construction
-- Factory-controlled quality
-- Pre-integrated utilities
+<div className="image-container">
+  <img src="/coreplus/img/layouts/optimal_module_layout.png" alt="Core+ Modular System Overview" />
+</div>
 
-### 2. Quick Assembly
-- 4-day standard assembly time
-- 3-person skilled crew
-- Minimal equipment requirements
-- Step-by-step guided process
+### Superior Performance
 
-### 3. Cost-Effective
-- 30% lower than traditional construction
-- Reduced labor costs
-- Minimal waste
-- Optimized transportation
+- **Energy Efficiency**: 40-60% reduction in energy consumption
+- **Structural Integrity**: Engineered for high wind and seismic loads
+- **Thermal Performance**: Advanced insulation and sealing systems
+- **Acoustic Control**: Superior sound dampening properties
 
-![Cost Distribution](/img/costs/cost_distribution_pie.png)
+### Rapid Assembly
 
-### 4. Technical Excellence
-- R-25 insulation value
-- 150mph wind resistance
-- Seismic compliance
-- Moisture and mold resistant
+- **Tool-free Connections**: Most connections require no specialized tools
+- **Pre-integrated Systems**: Electrical, plumbing, and HVAC ready
+- **Factory Quality**: Controlled manufacturing environment
+- **Minimal On-site Work**: 60% faster than traditional construction
+
+### Sustainable Design
+
+- **Material Efficiency**: Optimized use of resources
+- **Waste Reduction**: 80% less construction waste
+- **Recyclability**: 90% of materials can be recycled
+- **Carbon Footprint**: 50% reduction in embodied carbon
 
 ## System Components
 
-### Panel Types
-1. **Wall Panels**
-   - Standard size: 1.2m × 2.7m
-   - Cost: $380 per panel
-   - Integrated insulation
-   - Pre-finished surfaces
+### Panel Systems
 
-2. **Floor Panels**
-   - Size: 1.2m × 1.2m
-   - Cost: $420 per panel
-   - Enhanced load capacity
-   - Built-in leveling system
+<div className="image-container">
+  <img src="/coreplus/img/layouts/panelized_module_layout.png" alt="Panel Systems Overview" />
+</div>
 
-3. **Roof Panels**
-   - Size: 1.2m × 1.2m
-   - Cost: $380 per panel
-   - Integrated waterproofing
-   - Solar-ready design
+Our panel systems form the foundation of the Core+ building system:
 
-### Connection System
-- Quick-lock mechanism
-- $45 per connection point
-- Tool-free assembly
-- Weather-tight sealing
+- **Wall Panels**: Structural insulated panels with superior thermal performance
+- **Floor Panels**: Load-bearing panels with integrated utilities
+- **Roof Panels**: Weather-resistant panels with solar-ready design
 
-## Module Layouts
+### Connection Systems
 
-Our system offers various module configurations to meet different needs:
+<div className="image-container">
+  <img src="/coreplus/img/layouts/single_module_layout.png" alt="Connection Systems Overview" />
+</div>
 
-![Single Module Layout](/img/layouts/single_module_layout.png)
-![Optimal Module Layout](/img/layouts/optimal_module_layout.png)
-![Panelized Module Layout](/img/layouts/panelized_module_layout.png)
+Our proprietary connection system ensures:
+
+- **Quick Assembly**: Tool-free connections
+- **Perfect Alignment**: Built-in alignment guides
+- **Weather Protection**: Integrated sealing systems
+- **Thermal Efficiency**: Insulated break design
+
+### Complete Modules
+
+<div className="image-container">
+  <img src="/coreplus/img/layouts/max_size_module_layout.png" alt="Complete Modules Overview" />
+</div>
+
+Pre-fabricated modules combine panels and systems:
+
+- **Standard Module**: Foundation of our system
+- **Optimal Module**: Enhanced space utilization
+- **Panelized Module**: Maximum flexibility
+
+## Applications
+
+### Residential
+
+- Single-family homes
+- Multi-family buildings
+- Student housing
+- Senior living facilities
+
+### Commercial
+
+- Office buildings
+- Retail spaces
+- Healthcare facilities
+- Educational institutions
+
+### Industrial
+
+- Manufacturing facilities
+- Warehouses
+- Distribution centers
+- Research laboratories
+
+## Benefits
+
+### Cost Efficiency
+
+- **Reduced Labor**: Fewer on-site workers needed
+- **Faster Construction**: Shorter project timelines
+- **Lower Operating Costs**: Superior energy efficiency
+- **Minimal Maintenance**: Durable materials and systems
+
+### Quality Assurance
+
+- **Factory Control**: Controlled manufacturing environment
+- **Consistent Quality**: Standardized production process
+- **Rigorous Testing**: Comprehensive quality control
+- **Long-term Durability**: 50+ year design life
+
+### Environmental Impact
+
+- **Energy Savings**: Reduced operational energy use
+- **Waste Reduction**: Minimal construction waste
+- **Resource Efficiency**: Optimized material usage
+- **Carbon Reduction**: Lower embodied carbon
 
 ## Getting Started
 
-1. [Review Technical Specifications](./technical-specs.md)
-2. [Explore Panel Systems](./panels.md)
-3. [Understand Assembly Process](/assembly-guide)
-4. [Calculate Costs](/cost-calculator)
+### Planning Phase
 
-## Why Choose ModularHouse Pro?
+1. **Site Assessment**
+   - Location evaluation
+   - Foundation requirements
+   - Utility connections
+   - Access considerations
 
-1. **Speed**
-   - 4-day assembly vs. 2-3 weeks traditional
-   - Immediate occupancy
-   - Reduced project timeline
+2. **Design Process**
+   - Layout optimization
+   - System selection
+   - Customization options
+   - Cost estimation
 
-2. **Quality**
-   - Factory-made precision
-   - Consistent performance
-   - Certified materials
+### Implementation
 
-3. **Flexibility**
-   - Customizable layouts
-   - Expandable design
-   - Multiple finish options
+1. **Site Preparation**
+   - Foundation work
+   - Utility connections
+   - Access setup
+   - Weather protection
 
-4. **Sustainability**
-   - Energy efficient
-   - Minimal waste
-   - Recyclable materials
-   - Low carbon footprint
+2. **Assembly Process**
+   - Panel installation
+   - System integration
+   - Quality checks
+   - Final finishing
+
+## Support Services
+
+### Technical Support
+
+- **Design Assistance**: Expert guidance
+- **Installation Support**: On-site help
+- **Training Programs**: Comprehensive training
+- **Documentation**: Detailed guides
+
+### Maintenance
+
+- **Regular Inspections**: Scheduled checks
+- **Preventive Maintenance**: Proactive care
+- **Repair Services**: Quick response
+- **Upgrade Options**: System improvements
 
 ## Next Steps
 
-- [View Product Catalog](/product-catalog)
-- [Download Technical Sheets](./technical-specs.md)
-- [Contact Sales Team](/contact)
+1. [Review Technical Specifications](/docs/technical-specs)
+2. [Explore Panel Systems](/docs/panels)
+3. [Learn About Modules](/docs/modules)
+4. [Contact Our Team](/contact)
+
+## Contact Us
+
+For more information about Core+:
+
+- **Sales Team**: [Get in Touch](/contact)
+- **Technical Support**: [Request Support](/contact)
+- **Training**: [Contact Us](/contact)
+- **Documentation**: [Documentation Home](/docs/intro)

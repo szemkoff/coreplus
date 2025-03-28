@@ -193,6 +193,6 @@ The panelized module offers maximum flexibility and customization options.
 For additional support:
 
 - **Technical Team**: [Contact Us](/contact)
-- **Documentation**: [Download Center](/docs)
-- **Training**: [Schedule Training](/training)
-- **Support**: [24/7 Support](/support) 
+- **Documentation**: [Documentation Home](/docs/intro)
+- **Training**: [Contact Us](/contact)
+- **Support**: [Contact Us](/contact) 

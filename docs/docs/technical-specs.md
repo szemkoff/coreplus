@@ -247,23 +247,21 @@ This document provides detailed technical specifications for the Core+ modular c
 
 ### Technical Support
 
-- **Design Assistance**: Available
-- **Installation Support**: On-site available
-- **Training**: Provided
-- **Documentation**: Comprehensive
+- **Design Assistance**: [Contact Us](/contact)
+- **Installation Support**: [Contact Us](/contact)
+- **Training Programs**: [Contact Us](/contact)
+- **Documentation**: [Documentation Home](/docs/intro)
 
 ### Warranty Coverage
 
 - **Structural**: 50 years
-- **Weatherproofing**: 10 years
-- **Insulation**: 25 years
-- **Components**: 5 years
+- **Weather Protection**: 25 years
+- **Systems**: 10 years
+- **Finishes**: 5 years
 
-## Contact Information
+## Next Steps
 
-For additional technical information:
-
-- **Technical Team**: [Contact Us](/contact)
-- **Documentation**: [Download Center](/docs)
-- **Training**: [Schedule Training](/training)
-- **Support**: [24/7 Support](/support) 
+1. [Review Assembly Guide](/docs/assembly-guide)
+2. [Explore Panel Systems](/docs/panels)
+3. [Learn About Modules](/docs/modules)
+4. [Contact Our Team](/contact) 

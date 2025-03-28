@@ -51,6 +51,6 @@ You can download our detailed technical plans for more information:
 
 ## Next Steps
 
-- [Review Assembly Guide](/assembly-guide)
-- [Calculate Project Costs](/cost-calculator)
+- [Review Assembly Guide](/docs/assembly-guide)
+- [View Technical Specifications](/docs/technical-specs)
 - [Contact Our Team](/contact) 

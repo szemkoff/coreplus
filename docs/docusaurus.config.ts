@@ -63,28 +63,13 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          to: '/product-catalog',
-          label: 'Product Catalog',
-          position: 'left'
-        },
-        {
-          to: '/docs/technical-drawings',
-          label: 'Technical Drawings',
-          position: 'left'
-        },
-        {
           to: '/docs/plans',
           label: 'Construction Plans',
           position: 'left'
         },
         {
-          to: '/cost-calculator',
-          label: 'Cost Calculator',
-          position: 'left'
-        },
-        {
-          to: '/assembly-guide',
-          label: 'Assembly Guide',
+          to: '/docs/technical-specs',
+          label: 'Technical Specs',
           position: 'left'
         },
         {
@@ -139,12 +124,12 @@ const config: Config = {
           title: 'Resources',
           items: [
             {
-              label: 'Cost Calculator',
-              to: '/cost-calculator',
+              label: 'Technical Specifications',
+              to: '/docs/technical-specs',
             },
             {
-              label: 'Technical Drawings',
-              to: '/docs/technical-drawings',
+              label: 'Construction Plans',
+              to: '/docs/plans',
             },
             {
               label: 'GitHub',
