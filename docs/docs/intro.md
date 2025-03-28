@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Welcome to ModularHouse Pro's advanced panelized construction system documentation. Our innovative approach to modular construction combines speed, efficiency, and quality to deliver superior housing solutions.
 
+![Floor Layout Overview](/img/layouts/floor_layout.png)
+
 ## Key Features
 
 ### 1. Advanced Panel System
@@ -25,6 +27,8 @@ Welcome to ModularHouse Pro's advanced panelized construction system documentati
 - Reduced labor costs
 - Minimal waste
 - Optimized transportation
+
+![Cost Distribution](/img/costs/cost_distribution_pie.png)
 
 ### 4. Technical Excellence
 - R-25 insulation value
@@ -58,6 +62,14 @@ Welcome to ModularHouse Pro's advanced panelized construction system documentati
 - $45 per connection point
 - Tool-free assembly
 - Weather-tight sealing
+
+## Module Layouts
+
+Our system offers various module configurations to meet different needs:
+
+![Single Module Layout](/img/layouts/single_module_layout.png)
+![Optimal Module Layout](/img/layouts/optimal_module_layout.png)
+![Panelized Module Layout](/img/layouts/panelized_module_layout.png)
 
 ## Getting Started
 

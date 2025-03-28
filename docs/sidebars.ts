@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type {SidebarsConfig} from '@docusaurus/types';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -16,10 +16,18 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     'intro',
     'technical-specs',
-    'assembly-guide',
     'panels',
-    'connections',
     'modules',
+    'connections',
+    'technical-drawings',
+    {
+      type: 'category',
+      label: 'Tutorial - Extras',
+      items: [
+        'tutorial-extras/translate-your-site',
+        'tutorial-extras/manage-docs-versions',
+      ],
+    },
   ],
 };
 
