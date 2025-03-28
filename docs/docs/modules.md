@@ -1,53 +1,198 @@
+---
+sidebar_position: 4
+---
+
 # Complete Modules
 
-Core+ complete modules are pre-engineered building blocks that can be combined to create various building configurations.
+## Overview
+
+Our complete modules are pre-fabricated units that combine panels, connections, and integrated systems into ready-to-assemble building components. Each module is engineered for maximum efficiency, durability, and ease of installation.
 
 ## Module Types
 
-### Living Modules
-- Studio modules (3.6m x 7.2m)
-- One-bedroom modules (3.6m x 10.8m)
-- Two-bedroom modules (7.2m x 10.8m)
+### Standard Module
 
-### Service Modules
-- Kitchen modules
-- Bathroom modules
-- Utility modules
+<div className="image-container">
+  <img src="/coreplus/img/layouts/single_module_layout.png" alt="Standard Module Layout" />
+</div>
 
-### Special Purpose Modules
-- Entry/vestibule modules
-- Stair modules
-- Connector modules
+Our standard module is the foundation of our modular construction system, designed for maximum flexibility and efficiency.
 
-## Features
+#### Specifications
 
-### Pre-installed Components
-- Electrical systems
-- Plumbing systems
-- HVAC integration
-- Interior finishes
+| Feature | Specification | Notes |
+|---------|--------------|-------|
+| Width | 2.55m | Standard width |
+| Length | 12.0m | Standard length |
+| Height | 2.9m | External height |
+| Interior Height | 2.7m | Clear height |
+| Total Area | 30.6m² | Floor area |
+| Assembly Time | 32 hours | With 3-person crew |
+| Weight | 8,000 kg | Maximum shipping weight |
+| Container Fit | 2 modules | Per 40' container |
 
-### Customization Options
-- Interior layouts
-- Finish selections
-- Window configurations
-- Door placements
+#### Key Features
 
-## Transportation & Installation
+- **Pre-integrated Systems** - Electrical, plumbing, and HVAC
+- **Factory-finished** - Ready for immediate occupancy
+- **Energy Efficient** - Superior insulation and sealing
+- **Structural Integrity** - Engineered for maximum strength
+- **Quick Assembly** - Minimal on-site work required
 
-### Transport Requirements
-- Maximum dimensions
-- Weight restrictions
-- Protection during transit
+### Optimal Module
 
-### Installation Process
-1. Site preparation
-2. Module placement
-3. System connections
-4. Final finishing
+<div className="image-container">
+  <img src="/coreplus/img/layouts/optimal_module_layout.png" alt="Optimal Module Layout" />
+</div>
 
-## Quality Assurance
-- Factory testing
-- On-site verification
-- Warranty coverage
-- Maintenance schedules 
+The optimal module configuration maximizes space utilization and energy efficiency.
+
+#### Specifications
+
+| Feature | Specification | Notes |
+|---------|--------------|-------|
+| Width | 3.0m | Enhanced width |
+| Length | 15.0m | Extended length |
+| Height | 3.0m | External height |
+| Interior Height | 2.8m | Clear height |
+| Total Area | 45.0m² | Floor area |
+| Assembly Time | 48 hours | With 3-person crew |
+| Weight | 12,000 kg | Maximum shipping weight |
+| Container Fit | 1 module | Per 40' container |
+
+#### Key Features
+
+- **Enhanced Space** - Maximum usable area
+- **Superior Insulation** - Advanced thermal performance
+- **Integrated Systems** - Pre-installed utilities
+- **Structural Design** - Optimized for strength
+- **Customizable** - Adaptable to various needs
+
+### Panelized Module
+
+<div className="image-container">
+  <img src="/coreplus/img/layouts/panelized_module_layout.png" alt="Panelized Module Layout" />
+</div>
+
+The panelized module offers maximum flexibility and customization options.
+
+#### Specifications
+
+| Feature | Specification | Notes |
+|---------|--------------|-------|
+| Width | 2.4m | Standard width |
+| Length | 10.0m | Standard length |
+| Height | 2.7m | External height |
+| Interior Height | 2.5m | Clear height |
+| Total Area | 24.0m² | Floor area |
+| Assembly Time | 24 hours | With 3-person crew |
+| Weight | 6,000 kg | Maximum shipping weight |
+| Container Fit | 3 modules | Per 40' container |
+
+#### Key Features
+
+- **Maximum Flexibility** - Customizable configurations
+- **Easy Assembly** - Simple panel connections
+- **Cost Effective** - Efficient material usage
+- **Transport Efficient** - Optimized for shipping
+- **Quick Installation** - Minimal assembly time
+
+## Module Components
+
+### Structural Elements
+
+- **Frame**: High-strength steel
+- **Panels**: Structural insulated panels
+- **Connections**: Quick-lock system
+- **Foundation**: Integrated base system
+
+### Integrated Systems
+
+- **Electrical**: Pre-wired and tested
+- **Plumbing**: Pre-installed and pressure tested
+- **HVAC**: Integrated climate control
+- **Smart Systems**: Optional integration
+
+### Finishes
+
+- **Interior**: Factory-applied
+- **Exterior**: Weather-resistant
+- **Flooring**: Pre-installed
+- **Fixtures**: Optional pre-installation
+
+## Assembly Process
+
+### Site Preparation
+
+1. **Foundation**
+   - Level concrete pad
+   - Anchor points
+   - Utility connections
+   - Weather protection
+
+2. **Access**
+   - Clear delivery path
+   - Crane setup
+   - Assembly space
+   - Material staging
+
+### Module Installation
+
+1. **Delivery**
+   - Container unloading
+   - Module positioning
+   - Initial alignment
+   - Temporary support
+
+2. **Assembly**
+   - Panel connection
+   - System integration
+   - Weather sealing
+   - Quality checks
+
+3. **Finishing**
+   - Interior completion
+   - Exterior finishing
+   - System testing
+   - Final inspection
+
+## Quality Control
+
+### Testing Requirements
+
+- **Structural**: Load testing
+- **Systems**: Functional testing
+- **Weather**: Water penetration
+- **Energy**: Thermal performance
+
+### Inspection Points
+
+- **Alignment**: Within ±2mm
+- **Systems**: Full functionality
+- **Sealing**: No leaks
+- **Finishes**: No defects
+
+## Maintenance
+
+### Regular Checks
+
+- **Monthly**: System checks
+- **Quarterly**: Seal inspection
+- **Annually**: Full inspection
+- **5 Years**: Major maintenance
+
+### Cleaning Requirements
+
+- **Exterior**: Regular washing
+- **Interior**: Standard cleaning
+- **Systems**: Regular service
+- **Seals**: Periodic inspection
+
+## Support
+
+For additional support:
+
+- **Technical Team**: [Contact Us](/contact)
+- **Documentation**: [Download Center](/docs)
+- **Training**: [Schedule Training](/training)
+- **Support**: [24/7 Support](/support) 
