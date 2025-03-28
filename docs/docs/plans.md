@@ -11,21 +11,30 @@ Our modular construction system is designed with precision engineering and flexi
 ## Detailed Floor Plans
 
 ### Main Floor Plan
-![Main Floor Plan](/img/plans/15.10.24_04_Lot8_04.pdf)
+
+<div className="pdf-container">
+  <embed src="/coreplus/img/plans/15.10.24_04_Lot8_04.pdf" type="application/pdf" width="100%" height="500px" />
+</div>
 
 This comprehensive floor plan includes all dimensions, structural elements, and utility layouts for our standard modular system.
 
 [Download Main Floor Plan (PDF)](/img/plans/15.10.24_04_Lot8_04.pdf)
 
 ### Visual Floor Plan
-![Visual Floor Plan](/img/plans/17.10.24_04_Lot8_04%20(plan%20without%20dimensions).pdf)
+
+<div className="pdf-container">
+  <embed src="/coreplus/img/plans/17.10.24_04_Lot8_04%20(plan%20without%20dimensions).pdf" type="application/pdf" width="100%" height="500px" />
+</div>
 
 This visual representation provides a clear overview of the layout without technical dimensions, perfect for conceptual planning.
 
 [Download Visual Floor Plan (PDF)](/img/plans/17.10.24_04_Lot8_04%20(plan%20without%20dimensions).pdf)
 
 ### Refugee Housing Plan
-![Refugee Housing Plan](/img/plans/Yara_Turetsky_20x52x9_4_12_roof_Ukrainian_Refugee_Housing_MA.pdf)
+
+<div className="pdf-container">
+  <embed src="/coreplus/img/plans/Yara_Turetsky_20x52x9_4_12_roof_Ukrainian_Refugee_Housing_MA.pdf" type="application/pdf" width="100%" height="500px" />
+</div>
 
 This specialized plan was developed for our refugee housing initiative, showcasing the versatility of our modular system.
 

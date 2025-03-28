@@ -28,3 +28,42 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Custom styling for images */
+.markdown img {
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+}
+
+/* PDF container styling */
+.pdf-container {
+  margin: 1.5rem 0;
+  padding: 0.5rem;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive layout for large images */
+@media screen and (max-width: 996px) {
+  .markdown img {
+    max-width: 100%;
+  }
+}
+
+/* Product catalog styling */
+.product-item {
+  border: 1px solid #eee;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 4px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.product-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
