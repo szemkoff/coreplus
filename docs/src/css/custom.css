@@ -38,6 +38,19 @@
   max-width: 100%;
 }
 
+/* Image container styling */
+.image-container {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.image-container img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border: 1px solid #eaeaea;
+}
+
 /* PDF container styling */
 .pdf-container {
   margin: 1.5rem 0;

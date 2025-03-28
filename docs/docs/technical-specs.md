@@ -1,232 +1,269 @@
+---
+sidebar_position: 2
+---
+
 # Technical Specifications
 
-## Panel System Specifications
+## Overview
 
-### Wall Panels
-| Specification | Value |
-|--------------|-------|
-| Dimensions | 1.2m × 2.7m (4' × 9') |
-| Thickness | 200mm (8") |
-| Core Material | EPS Foam |
-| Facing Material | OSB/Steel Composite |
-| R-Value | R-25 |
-| Weight | 40kg (88 lbs) |
-| Load Capacity | 15kN/m² |
-| Fire Rating | Class A |
-| Sound Rating | STC 45 |
+This document provides detailed technical specifications for the Core+ modular construction system. All components are engineered to meet or exceed international building codes and standards.
 
-### Military-Grade Wall Panels
-| Specification | Value |
-|--------------|-------|
-| Dimensions | 1.2m × 2.7m (4' × 9') |
-| Thickness | 300mm (12") |
-| Core Material | Kevlar-Reinforced Composite |
-| Facing Material | Steel/Composite Hybrid |
-| R-Value | R-35 |
-| Weight | 85kg (187 lbs) |
-| Load Capacity | 25kN/m² |
-| Fire Rating | EI50 |
-| Ballistic Rating | UL 752 Level 3 |
-| Blast Rating | 50psi |
+## System Components
 
-### Fire-Resistant Wall Panels
-| Specification | Value |
-|--------------|-------|
-| Dimensions | 1.2m × 2.7m (4' × 9') |
-| Thickness | 250mm (10") |
-| Core Material | Mineral Wool |
-| Facing Material | Gypsum Board |
-| R-Value | R-30 |
-| Weight | 65kg (143 lbs) |
-| Load Capacity | 20kN/m² |
-| Fire Rating | EI50 |
-| Sound Rating | STC 55 |
-| Thermal Rating | 50°C |
+### Panel Systems
 
-### Floor Panels
-| Specification | Value |
-|--------------|-------|
-| Dimensions | 1.2m × 1.2m (4' × 4') |
-| Thickness | 250mm (10") |
-| Core Material | High-Density EPS |
-| Facing Material | Steel-Reinforced OSB |
-| Load Rating | 4.8kPa (100 psf) |
-| Fire Rating | Class A |
-| Sound Rating | IIC 60 |
+<div className="image-container">
+  <img src="/coreplus/img/layouts/panelized_module_layout.png" alt="Panel System Overview" />
+</div>
 
-### Military-Grade Floor Panels
-| Specification | Value |
-|--------------|-------|
-| Dimensions | 1.2m × 1.2m (4' × 4') |
-| Thickness | 300mm (12") |
-| Core Material | Steel-Reinforced Composite |
-| Facing Material | Steel Plate |
-| Load Rating | 8.0kPa (167 psf) |
-| Fire Rating | EI50 |
-| Ballistic Rating | UL 752 Level 3 |
-| Blast Rating | 50psi |
-| Impact Rating | Grade 3 |
+#### Wall Panels
 
-### Roof Panels
-| Specification | Value |
-|--------------|-------|
-| Dimensions | 1.2m × 1.2m (4' × 4') |
-| Thickness | 200mm (8") |
-| Core Material | EPS Foam |
-| Facing Material | TPO/OSB Composite |
-| Load Rating | 2.4kPa (50 psf) |
-| Slope | 2% minimum |
-| Waterproofing | Integrated TPO membrane |
+| Specification | Value | Notes |
+|--------------|-------|-------|
+| Standard Size | 1.2m × 2.7m | Custom sizes available |
+| Thickness | 150mm - 300mm | Based on insulation requirements |
+| R-Value | R-25 | Standard configuration |
+| Core Material | EPS | Expanded Polystyrene |
+| Facing Material | Steel/Aluminum | Corrosion resistant |
+| Weight | 45kg - 80kg | Varies by configuration |
+| Fire Rating | Class A | 1-hour fire resistance |
+| Wind Resistance | 150mph | Design wind speed |
 
-### Fire-Resistant Roof Panels
-| Specification | Value |
-|--------------|-------|
-| Dimensions | 1.2m × 1.2m (4' × 4') |
-| Thickness | 250mm (10") |
-| Core Material | Mineral Wool |
-| Facing Material | Fire-Resistant Membrane |
-| Load Rating | 4.8kPa (100 psf) |
-| Fire Rating | EI50 |
-| Water Rating | IP67 |
-| Wind Rating | 200mph |
+#### Floor Panels
 
-## Connection System
+| Specification | Value | Notes |
+|--------------|-------|-------|
+| Standard Size | 1.2m × 1.2m | Custom sizes available |
+| Thickness | 200mm - 350mm | Based on span requirements |
+| Load Capacity | 4.8kPa | Standard configuration |
+| Core Material | High-density EPS | With reinforcement |
+| Facing Material | Steel-reinforced composite | Corrosion resistant |
+| Weight | 60kg - 110kg | Varies by configuration |
+| Moisture Protection | Integrated barrier | Prevents moisture ingress |
+| Insulation | R-20 | Standard configuration |
 
-### Quick-Lock Mechanism
-| Specification | Value |
-|--------------|-------|
-| Type | Cam-Lock System |
-| Material | High-Strength Steel |
-| Pull-Out Strength | 25kN |
-| Weather Rating | IP65 |
-| Installation Time | < 1 minute per connection |
-| Tools Required | None |
+#### Roof Panels
 
-### Military-Grade Connection System
-| Specification | Value |
-|--------------|-------|
-| Type | Reinforced Cam-Lock System |
-| Material | High-Strength Steel |
-| Pull-Out Strength | 50kN |
-| Weather Rating | IP67 |
-| Blast Rating | 50psi |
-| Installation Time | < 2 minutes per connection |
-| Tools Required | Specialized wrench |
+| Specification | Value | Notes |
+|--------------|-------|-------|
+| Standard Size | 1.2m × 1.2m | Custom sizes available |
+| Thickness | 200mm - 300mm | Based on span requirements |
+| Load Rating | 2.4kPa | Standard configuration |
+| Core Material | High-density EPS | With reinforcement |
+| Exterior Finish | Weather-resistant membrane | UV resistant |
+| Weight | 50kg - 90kg | Varies by configuration |
+| Solar Ready | Integrated mounting points | For PV systems |
+| Insulation | R-30 | Standard configuration |
 
-### Sealing System
-| Specification | Value |
-|--------------|-------|
-| Type | EPDM Gasket |
-| Material | EPDM Rubber |
-| Temperature Range | -40°C to +120°C |
-| UV Resistance | Yes |
-| Compression Set | < 25% |
-| Expected Life | 25 years |
+### Connection Systems
 
-### Fire-Resistant Sealing System
-| Specification | Value |
-|--------------|-------|
-| Type | Intumescent Gasket |
-| Material | Fire-Resistant Rubber |
-| Temperature Range | -40°C to +1200°C |
-| UV Resistance | Yes |
-| Compression Set | < 15% |
-| Expected Life | 20 years |
+<div className="image-container">
+  <img src="/coreplus/img/layouts/single_module_layout.png" alt="Connection System Overview" />
+</div>
 
-## Performance Ratings
+#### Quick-Lock Mechanism
+
+| Specification | Value | Notes |
+|--------------|-------|-------|
+| Type | Quick-lock | Tool-free operation |
+| Material | High-strength aluminum | Corrosion resistant |
+| Thermal Performance | Insulated break | Prevents thermal bridging |
+| Weather Sealing | EPDM gaskets | Integrated sealing |
+| Assembly Time | 2 minutes | Per connection |
+| Tools Required | Basic hand tools | No specialized tools needed |
+| Adjustability | ±10mm | For perfect alignment |
+| Cost | $45 | Per connection point |
+
+## Performance Standards
 
 ### Structural Performance
-| Test | Rating |
-|------|--------|
-| Wind Resistance | 150mph (Category 4) |
-| Seismic Rating | Zone 4 |
-| Snow Load | 2.4kPa (50 psf) |
-| Impact Resistance | Grade 1 |
 
-### Military Performance Ratings
-| Test | Rating |
-|------|--------|
-| Wind Resistance | 200mph (Category 5) |
-| Seismic Rating | Zone 5 |
-| Snow Load | 4.8kPa (100 psf) |
-| Impact Resistance | Grade 3 |
-| Blast Resistance | 50psi |
+<div className="image-container">
+  <img src="/coreplus/img/layouts/optimal_module_layout.png" alt="Structural Performance" />
+</div>
 
-### Environmental Performance
-| Metric | Value |
-|--------|--------|
-| Air Infiltration | < 0.1 L/s/m² |
-| Water Penetration | No penetration at 720Pa |
-| Thermal Bridge | Ψ < 0.01 W/mK |
-| VOC Emissions | LEED Compliant |
+#### Load Requirements
 
-### Military Certifications
-| Certification | Standard |
-|--------------|---------|
-| Ballistic Protection | UL 752 Level 3 |
-| Fire Resistance | EI50 |
-| Blast Protection | UFC 4-010-01 |
-| Environmental | MIL-STD-810G |
-| EMI/EMC | MIL-STD-461G |
+- **Wind Load**: 150mph design wind speed
+- **Snow Load**: 2.4kPa standard
+- **Seismic**: Zone 4 compliance
+- **Dead Load**: 1.2kPa
+- **Live Load**: 2.4kPa
 
-### Sustainability
-| Feature | Rating |
-|---------|--------|
-| Recycled Content | > 30% |
-| Recyclability | > 90% |
-| EPD Certification | Yes |
-| Carbon Footprint | < 50 kg CO₂e/m² |
+#### Deflection Limits
 
-## Module Specifications
+- **Floor**: L/360
+- **Roof**: L/240
+- **Wall**: H/240
 
-### Standard Module
-| Specification | Value |
-|--------------|-------|
-| Width | 2.55m (8'4") |
-| Length | 12.0m (39'4") |
-| Height | 2.9m (9'6") |
-| Interior Height | 2.7m (8'10") |
-| Total Area | 30.6m² (329.4 sq ft) |
-| Assembly Time | 32 hours |
-| Crew Size | 3 persons |
+### Thermal Performance
 
-### Transportation
-| Specification | Value |
-|--------------|-------|
-| Shipping Format | Flat-pack |
-| Container Type | 40' High Cube |
-| Units per Container | 2 modules |
-| Stack Height | 12 panels |
-| Total Weight | < 8,000 kg |
+#### Insulation Values
 
-## Quality Assurance
+- **Wall**: R-25 standard
+- **Floor**: R-20 standard
+- **Roof**: R-30 standard
 
-### Testing Standards
-- ISO 9001:2015 Certified Manufacturing
-- ASTM E72 Structural Testing
-- ASTM E331 Water Penetration
-- ASTM E84 Fire Rating
-- ASTM E90 Sound Transmission
+#### Air Infiltration
 
-### Warranty
-| Component | Coverage |
-|-----------|----------|
-| Structural | 25 years |
-| Waterproofing | 15 years |
-| Connections | 10 years |
-| Finishes | 5 years |
+- **Maximum**: 0.6 ACH @ 50Pa
+- **Target**: 0.3 ACH @ 50Pa
 
-## Compliance
+### Acoustic Performance
+
+#### Sound Transmission Class (STC)
+
+- **Wall**: 50+ standard
+- **Floor**: 45+ standard
+- **Roof**: 45+ standard
+
+## Manufacturing Standards
+
+<div className="image-container">
+  <img src="/coreplus/img/layouts/max_size_module_layout.png" alt="Manufacturing Standards" />
+</div>
+
+### Quality Control
+
+#### Dimensional Tolerances
+
+- **Length**: ±2mm
+- **Width**: ±2mm
+- **Thickness**: ±1mm
+- **Squareness**: ±1mm/m
+
+#### Material Standards
+
+- **Steel**: ASTM A653 Grade 50
+- **Aluminum**: 6061-T6
+- **EPS**: ASTM C578 Type IV
+- **Sealants**: ASTM C920 Type S
+
+### Testing Requirements
+
+#### Structural Testing
+
+- **Load Testing**: 1.5x design load
+- **Impact Testing**: ASTM D2794
+- **Fatigue Testing**: 100,000 cycles
+
+#### Environmental Testing
+
+- **Water Penetration**: ASTM E331
+- **Air Leakage**: ASTM E283
+- **Thermal Cycling**: 100 cycles
+
+## Installation Requirements
+
+### Foundation Requirements
+
+- **Type**: Concrete pad or strip
+- **Thickness**: 150mm minimum
+- **Strength**: 25MPa
+- **Levelness**: ±3mm over 3m
+- **Waterproofing**: Required
+
+### Site Requirements
+
+- **Access**: 3m minimum width
+- **Clearance**: 2m minimum height
+- **Space**: 1.5x building footprint
+- **Levelness**: ±10mm over 10m
+
+### Equipment Requirements
+
+- **Crane**: 2-ton capacity
+- **Tools**: Standard hand tools
+- **Safety**: Full PPE required
+- **Weather Protection**: Required
+
+## Maintenance Requirements
+
+### Regular Maintenance
+
+#### Monthly
+
+- Seal inspection
+- Connection check
+- Drainage verification
+- Utility system check
+
+#### Annually
+
+- Full system inspection
+- Weather seal replacement
+- Connection tightening
+- Utility system maintenance
+
+### Cleaning Requirements
+
+#### Exterior
+
+- Regular washing
+- Sealant inspection
+- Drainage check
+- Weather barrier verification
+
+#### Interior
+
+- Surface cleaning
+- Utility access
+- Ventilation check
+- Insulation inspection
+
+## Environmental Impact
+
+### Energy Efficiency
+
+- **Heating**: 40% reduction
+- **Cooling**: 60% reduction
+- **Lighting**: 30% reduction
+- **Overall**: 45% reduction
+
+### Material Efficiency
+
+- **Waste Reduction**: 80%
+- **Recycled Content**: 30%
+- **Recyclability**: 90%
+- **Carbon Footprint**: 50% reduction
+
+## Compliance Standards
 
 ### Building Codes
-- IBC 2021
-- IRC 2021
-- ASCE 7-16
-- Energy Star Certified
-- LEED v4 Compatible
 
-### Certifications
-- ICC-ES Evaluation Report
-- UL Listed Components
-- Energy Star Qualified
-- LEED Points Eligible 
+- **Structural**: IBC 2021
+- **Fire**: NFPA 101
+- **Energy**: IECC 2021
+- **Accessibility**: ADA 2010
+
+### Industry Standards
+
+- **ASTM**: Multiple standards
+- **ISO**: 9001:2015
+- **LEED**: Gold certification
+- **Energy Star**: Certified
+
+## Support and Warranty
+
+### Technical Support
+
+- **Design Assistance**: Available
+- **Installation Support**: On-site available
+- **Training**: Provided
+- **Documentation**: Comprehensive
+
+### Warranty Coverage
+
+- **Structural**: 50 years
+- **Weatherproofing**: 10 years
+- **Insulation**: 25 years
+- **Components**: 5 years
+
+## Contact Information
+
+For additional technical information:
+
+- **Technical Team**: [Contact Us](/contact)
+- **Documentation**: [Download Center](/docs)
+- **Training**: [Schedule Training](/training)
+- **Support**: [24/7 Support](/support) 

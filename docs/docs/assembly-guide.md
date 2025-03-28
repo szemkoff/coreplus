@@ -1,212 +1,209 @@
+---
+sidebar_position: 4
+---
+
 # Assembly Guide
 
-## Pre-Assembly Requirements
+## Overview
 
-### Site Preparation
-1. **Foundation Requirements**
-   - Level concrete pad or strip foundation
-   - Minimum 150mm thickness
-   - 25MPa concrete strength
-   - Waterproofing membrane installed
-   - Anchor points marked
+This guide provides step-by-step instructions for assembling the Core+ modular construction system. Our panels are designed for quick and efficient assembly, requiring minimal specialized tools and training.
 
-2. **Equipment Needed**
-   - Small crane or telehandler (2-ton capacity)
-   - Basic hand tools
-   - Laser level
-   - Safety equipment
+## Pre-Assembly Checklist
 
-3. **Crew Requirements**
-   - 3 skilled workers
-   - 1 crane operator
-   - 1 site supervisor
+Before beginning assembly, ensure you have:
 
-### Material Verification
-- [ ] All panels accounted for
-- [ ] Connection kits complete
-- [ ] Gaskets and sealants present
-- [ ] Tools and equipment checked
-- [ ] Safety equipment available
+- **Required Tools**:
+  - Basic hand tools (wrenches, screwdrivers)
+  - Level
+  - Tape measure
+  - Chalk line
+  - Safety equipment (gloves, safety glasses, hard hat)
 
-## Assembly Sequence
+- **Site Preparation**:
+  - Level foundation or base
+  - Clear access for panel delivery
+  - Adequate workspace
+  - Weather protection if needed
 
-### Day 1 - Site Prep and Foundation (8 hours)
+- **Documentation**:
+  - Assembly guide
+  - Technical drawings
+  - Safety guidelines
+  - Quality control checklist
 
-#### Morning (4 hours)
-1. Site clearing and leveling
-2. Foundation layout marking
-3. Anchor point installation
-4. Waterproofing application
+## Assembly Steps
 
-#### Afternoon (4 hours)
-1. Foundation curing
-2. Material staging
-3. Tool setup
-4. Safety briefing
+### 1. Foundation Preparation
 
-### Day 2 - Base Assembly (8 hours)
+<div className="image-container">
+  <img src="/coreplus/img/layouts/floor_layout.png" alt="Foundation Layout" />
+</div>
 
-#### Morning (4 hours)
-1. **Floor Panel Installation**
-   - Start from corner reference point
-   - Install panels in sequence
-   - Check level after each panel
-   - Secure temporary bracing
+1. **Site Leveling**
+   - Clear the site of debris
+   - Level the ground to within 10mm tolerance
+   - Mark foundation points according to plans
 
-#### Afternoon (4 hours)
-1. **Corner Panel Installation**
-   - Install first corner assembly
-   - Check plumb and level
-   - Secure temporary bracing
-   - Install remaining corners
+2. **Base Installation**
+   - Install leveling pads at marked points
+   - Adjust for perfect alignment
+   - Verify levelness across all points
 
-### Day 3 - Wall and Roof Assembly (8 hours)
+### 2. Floor Panel Installation
 
-#### Morning (4 hours)
-1. **Wall Panel Installation**
-   - Install panels between corners
-   - Check alignment and plumb
-   - Secure all connections
-   - Install window/door frames
+<div className="image-container">
+  <img src="/coreplus/img/layouts/single_module_layout.png" alt="Floor Panel Installation" />
+</div>
 
-#### Afternoon (4 hours)
-1. **Roof Panel Installation**
-   - Install roof support beam
-   - Place roof panels sequentially
-   - Secure all connections
-   - Install temporary weather protection
+1. **Starting Point**
+   - Begin from a corner
+   - Align first panel with foundation marks
+   - Secure with temporary bracing
 
-### Day 4 - Finishing (8 hours)
+2. **Panel Connection**
+   - Engage quick-lock mechanism
+   - Verify alignment
+   - Apply weather sealant
+   - Secure with fasteners
 
-#### Morning (4 hours)
-1. **Systems Integration**
-   - Electrical connections
-   - Plumbing connections
-   - HVAC installation
-   - System testing
+3. **Progression**
+   - Continue in sequence
+   - Maintain level alignment
+   - Check connections after each panel
 
-#### Afternoon (4 hours)
-1. **Final Finishing**
-   - Interior trim
-   - Exterior sealing
-   - Clean-up
-   - Final inspection
+### 3. Wall Panel Assembly
 
-## Connection Details
+<div className="image-container">
+  <img src="/coreplus/img/layouts/panelized_module_layout.png" alt="Wall Panel Assembly" />
+</div>
 
-### Panel-to-Panel Connection
-1. **Preparation**
-   - Clean connection surfaces
-   - Check gasket placement
-   - Verify alignment marks
+1. **Corner Setup**
+   - Install corner panels first
+   - Ensure perfect vertical alignment
+   - Secure with temporary bracing
 
-2. **Installation Steps**
-   ```
-   1. Align panels using guide marks
-   2. Insert cam-lock pins
-   3. Turn cam-lock 90 degrees
-   4. Verify lock engagement
-   5. Install weather seal
-   ```
+2. **Wall Construction**
+   - Connect panels sequentially
+   - Verify vertical alignment
+   - Apply weather sealant
+   - Secure connections
 
-### Corner Connection
-1. **Assembly Sequence**
-   ```
-   1. Position corner panel
-   2. Install vertical connector
-   3. Attach adjacent panel
-   4. Lock all cam-locks
-   5. Check corner square
-   ```
+3. **Utility Integration**
+   - Connect pre-installed utilities
+   - Verify all connections
+   - Test systems
 
-## Quality Control Checklist
+### 4. Roof Panel Installation
 
-### Foundation
-- [ ] Level within 3mm over 3m
-- [ ] Anchor points secure
-- [ ] Waterproofing intact
-- [ ] Perimeter square
+<div className="image-container">
+  <img src="/coreplus/img/layouts/optimal_module_layout.png" alt="Roof Panel Installation" />
+</div>
 
-### Walls
-- [ ] Panels plumb and level
-- [ ] Connections tight
-- [ ] Gaskets properly seated
-- [ ] No visible gaps
+1. **Starting Point**
+   - Begin from one end
+   - Align with wall panels
+   - Secure initial panel
 
-### Roof
-- [ ] Proper slope achieved
-- [ ] All connections secure
-- [ ] Waterproofing complete
-- [ ] No ponding areas
+2. **Panel Connection**
+   - Engage quick-lock mechanism
+   - Apply weather sealant
+   - Secure connections
 
-### Systems
-- [ ] Electrical tested
-- [ ] Plumbing pressure tested
-- [ ] HVAC balanced
-- [ ] All fixtures secure
+3. **Completion**
+   - Install ridge cap
+   - Apply final weatherproofing
+   - Verify all connections
 
-## Troubleshooting Guide
+## Quality Control
+
+### During Assembly
+
+- Check alignment after each panel
+- Verify all connections are secure
+- Ensure weather seals are properly applied
+- Test utility connections as they're made
+
+### Final Inspection
+
+1. **Structural**
+   - Check all connections
+   - Verify alignment
+   - Test structural integrity
+
+2. **Weatherproofing**
+   - Inspect all seals
+   - Check for gaps
+   - Verify drainage
+
+3. **Utilities**
+   - Test all systems
+   - Verify connections
+   - Check functionality
+
+## Safety Guidelines
+
+### Personal Safety
+
+- Always wear appropriate PPE
+- Use fall protection when working at height
+- Follow tool safety guidelines
+- Maintain clear communication
+
+### Site Safety
+
+- Keep work area clear
+- Secure tools and materials
+- Follow weather safety guidelines
+- Maintain emergency access
+
+## Troubleshooting
 
 ### Common Issues
 
-1. **Panel Misalignment**
+1. **Alignment Problems**
    - Check foundation level
-   - Verify panel sequence
-   - Adjust temporary bracing
-   - Re-check reference lines
+   - Verify panel dimensions
+   - Adjust leveling pads
 
-2. **Connection Problems**
+2. **Connection Issues**
    - Clean connection points
-   - Check for damage
-   - Verify proper alignment
-   - Replace if necessary
+   - Check for debris
+   - Verify proper engagement
 
 3. **Weather Sealing**
-   - Check gasket placement
-   - Verify proper compression
-   - Apply additional sealant
-   - Test with water spray
+   - Check sealant application
+   - Verify seal integrity
+   - Address any gaps
 
-## Safety Requirements
+## Maintenance
 
-### Personal Protection
-- Hard hats required
-- Safety boots required
-- High-visibility vests
-- Work gloves
-- Eye protection
+### Regular Checks
 
-### Site Safety
-- Perimeter barrier
-- First aid kit
-- Fire extinguisher
-- Emergency contacts
-- Assembly zone marked
+- Inspect weather seals
+- Check connections
+- Verify utility systems
+- Monitor structural integrity
 
-## Final Inspection
+### Cleaning
 
-### Documentation
-- Assembly checklist complete
-- Photos of key stages
-- System test results
-- Warranty registration
+- Regular exterior cleaning
+- Gutter maintenance
+- Seal inspection
+- Utility system checks
 
-### Handover Package
-- As-built drawings
-- Warranty certificates
-- Maintenance manual
-- Emergency contacts
+## Support
 
-## Maintenance Schedule
+For additional support during assembly:
 
-### Monthly
-- Check seals and gaskets
-- Inspect connections
-- Clean exterior
-- Check drainage
+- Contact our technical team
+- Refer to video tutorials
+- Access online resources
+- Request on-site assistance
 
-### Annually
-- Full system inspection
-- Update documentation
-- Preventive maintenance
-- Professional assessment 
+## Next Steps
+
+After completing assembly:
+
+1. [Review Technical Specifications](/docs/technical-specs)
+2. [Calculate Project Costs](/cost-calculator)
+3. [Contact Our Team](/contact) for support 
