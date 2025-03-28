@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/coreplus/product-catalog",
+  "source": "@site/src/pages/product-catalog.md",
+  "title": "Product Catalog",
+  "description": "Standard Panel Systems",
+  "frontMatter": {},
+  "unlisted": false
+}

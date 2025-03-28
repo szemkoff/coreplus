@@ -1,0 +1,24 @@
+{
+  "id": "panels",
+  "title": "panels",
+  "description": "",
+  "source": "@site/docs/panels.md",
+  "sourceDirName": ".",
+  "slug": "/panels",
+  "permalink": "/coreplus/docs/panels",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/coreplus/tree/main/docs/docs/panels.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assembly Guide",
+    "permalink": "/coreplus/docs/assembly-guide"
+  },
+  "next": {
+    "title": "Connection Systems",
+    "permalink": "/coreplus/docs/connections"
+  }
+}

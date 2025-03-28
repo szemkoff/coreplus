@@ -1,0 +1,20 @@
+{
+  "id": "modules",
+  "title": "Complete Modules",
+  "description": "Core+ complete modules are pre-engineered building blocks that can be combined to create various building configurations.",
+  "source": "@site/docs/modules.md",
+  "sourceDirName": ".",
+  "slug": "/modules",
+  "permalink": "/coreplus/docs/modules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/coreplus/tree/main/docs/docs/modules.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connection Systems",
+    "permalink": "/coreplus/docs/connections"
+  }
+}

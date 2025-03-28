@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/coreplus/contact",
+  "source": "@site/src/pages/contact.md",
+  "title": "Contact Us",
+  "description": "Get in Touch",
+  "frontMatter": {},
+  "unlisted": false
+}

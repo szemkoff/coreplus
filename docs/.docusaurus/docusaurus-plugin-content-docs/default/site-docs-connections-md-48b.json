@@ -1,0 +1,24 @@
+{
+  "id": "connections",
+  "title": "Connection Systems",
+  "description": "Core+ connection systems ensure structural integrity and rapid assembly of modular components.",
+  "source": "@site/docs/connections.md",
+  "sourceDirName": ".",
+  "slug": "/connections",
+  "permalink": "/coreplus/docs/connections",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/coreplus/tree/main/docs/docs/connections.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "panels",
+    "permalink": "/coreplus/docs/panels"
+  },
+  "next": {
+    "title": "Complete Modules",
+    "permalink": "/coreplus/docs/modules"
+  }
+}

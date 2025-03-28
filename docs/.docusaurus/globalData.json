@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/coreplus/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/coreplus/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "assembly-guide",
+              "path": "/coreplus/docs/assembly-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "connections",
+              "path": "/coreplus/docs/connections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/coreplus/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules",
+              "path": "/coreplus/docs/modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "panels",
+              "path": "/coreplus/docs/panels",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "technical-specs",
+              "path": "/coreplus/docs/technical-specs",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/coreplus/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

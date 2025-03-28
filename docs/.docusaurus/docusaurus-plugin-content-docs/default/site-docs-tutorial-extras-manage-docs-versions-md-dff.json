@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-extras/manage-docs-versions",
+  "title": "manage-docs-versions",
+  "description": "",
+  "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/manage-docs-versions",
+  "permalink": "/docs/tutorial-extras/manage-docs-versions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/modularhouse-pro/tree/main/docs/docs/tutorial-extras/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  },
+  "next": {
+    "title": "Assembly Guide",
+    "permalink": "/docs/assembly-guide"
+  }
+}

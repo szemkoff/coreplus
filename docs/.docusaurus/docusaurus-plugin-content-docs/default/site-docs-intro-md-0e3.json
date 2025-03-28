@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introduction to ModularHouse Pro",
+  "description": "Welcome to ModularHouse Pro's advanced panelized construction system documentation. Our innovative approach to modular construction combines speed, efficiency, and quality to deliver superior housing solutions.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/coreplus/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/coreplus/tree/main/docs/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Technical Specifications",
+    "permalink": "/coreplus/docs/technical-specs"
+  }
+}

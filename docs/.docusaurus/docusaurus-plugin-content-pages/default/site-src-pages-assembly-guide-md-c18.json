@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/coreplus/assembly-guide",
+  "source": "@site/src/pages/assembly-guide.md",
+  "title": "Assembly Guide",
+  "description": "Step-by-step guide for assembling Core+ modular construction system",
+  "frontMatter": {
+    "title": "Assembly Guide",
+    "description": "Step-by-step guide for assembling Core+ modular construction system"
+  },
+  "unlisted": false
+}

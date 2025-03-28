@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/coreplus/cost-calculator",
+  "source": "@site/src/pages/cost-calculator.md",
+  "title": "Cost Calculator",
+  "description": "Standard Module Cost Breakdown",
+  "frontMatter": {},
+  "unlisted": false
+}

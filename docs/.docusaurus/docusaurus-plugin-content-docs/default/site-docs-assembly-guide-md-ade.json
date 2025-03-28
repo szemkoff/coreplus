@@ -1,0 +1,24 @@
+{
+  "id": "assembly-guide",
+  "title": "Assembly Guide",
+  "description": "Pre-Assembly Requirements",
+  "source": "@site/docs/assembly-guide.md",
+  "sourceDirName": ".",
+  "slug": "/assembly-guide",
+  "permalink": "/coreplus/docs/assembly-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/coreplus/tree/main/docs/docs/assembly-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical Specifications",
+    "permalink": "/coreplus/docs/technical-specs"
+  },
+  "next": {
+    "title": "panels",
+    "permalink": "/coreplus/docs/panels"
+  }
+}

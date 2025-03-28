@@ -1,0 +1,24 @@
+{
+  "id": "technical-specs",
+  "title": "Technical Specifications",
+  "description": "Panel System Specifications",
+  "source": "@site/docs/technical-specs.md",
+  "sourceDirName": ".",
+  "slug": "/technical-specs",
+  "permalink": "/coreplus/docs/technical-specs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/szemkoff/coreplus/tree/main/docs/docs/technical-specs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to ModularHouse Pro",
+    "permalink": "/coreplus/docs/intro"
+  },
+  "next": {
+    "title": "Assembly Guide",
+    "permalink": "/coreplus/docs/assembly-guide"
+  }
+}
