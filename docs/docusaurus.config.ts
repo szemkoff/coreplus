@@ -76,6 +76,11 @@ const config: Config = {
           position: 'left'
         },
         {
+          to: '/docs/customer-proposal',
+          label: 'Customer Proposal',
+          position: 'left'
+        },
+        {
           href: 'https://github.com/szemkoff/coreplus',
           label: 'GitHub',
           position: 'right',
