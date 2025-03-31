@@ -15,6 +15,13 @@ import type {Sidebars} from '@docusaurus/plugin-content-docs/src/sidebars/types'
 const sidebars: Sidebars = {
   tutorialSidebar: [
     {type: 'doc', id: 'intro'},
+    {
+      type: 'category',
+      label: 'Products',
+      items: [
+        {type: 'doc', id: 'products/rapid-deployment-module'},
+      ],
+    },
     {type: 'doc', id: 'technical-specs'},
     {type: 'doc', id: 'panels'},
     {type: 'doc', id: 'modules'},
