@@ -153,7 +153,7 @@ flowchart TD
 - HUD certification
 - Energy Star certification
 - ICC certification
-- Local building code compliance
+- State-level modular building approval
 
 ## Maintenance
 

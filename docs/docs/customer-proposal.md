@@ -14,7 +14,8 @@ The Core+ Rapid Deployment Housing Module is designed to meet HUD code requireme
 
 - **Advanced Panel System**: Engineered for maximum strength and durability
 - **Rapid Deployment**: Complete module can be assembled in 2-3 days
-- **HUD Compliance**: Meets all federal housing standards
+- **HUD Compliance**: Manufactured to meet all federal HUD code requirements
+- **State Approval**: Pre-approved at the state level for modular construction
 - **Energy Efficiency**: Superior insulation and thermal performance
 - **Customizable Options**: Various floor plans and finishes available
 
@@ -40,6 +41,20 @@ The Core+ Rapid Deployment Housing Module is designed to meet HUD code requireme
 - Interior walls and ceilings
 - Windows and doors
 - Kitchen and bathroom packages
+
+## Documentation
+
+### Required Permits
+- Site preparation permit
+- Foundation permit
+- Utility connection permits
+- Final occupancy permit
+
+### Certifications
+- HUD code compliance certification
+- State modular building approval
+- Energy Star certification
+- ICC certification
 
 ## Pricing and Options
 
