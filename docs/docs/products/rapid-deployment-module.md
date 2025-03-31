@@ -42,12 +42,18 @@ Our Rapid Deployment Housing Module is a state-of-the-art solution designed for 
 ## 🏗️ Construction Details
 
 ### Structural System
+
 ```mermaid
-graph TD
+flowchart TD
     A[Chassis] --> B[Steel I-Beam Frame]
     A --> C[Cross Members]
     A --> D[Outriggers]
     A --> E[Tie-Down System]
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bbf,stroke:#333,stroke-width:2px
+    style D fill:#bbf,stroke:#333,stroke-width:2px
+    style E fill:#bbf,stroke:#333,stroke-width:2px
 ```
 
 ### Energy Efficiency
@@ -60,18 +66,34 @@ graph TD
 ## 💫 Premium Features
 
 ### Kitchen Package
-- Full appliance set (Energy Star rated)
-- Custom wood cabinetry
-- Laminate countertops
-- Stainless steel sink
-- LED lighting package
+```mermaid
+flowchart LR
+    A[Kitchen Package] --> B[Full Appliance Set]
+    A --> C[Custom Cabinetry]
+    A --> D[Laminate Countertops]
+    A --> E[SS Sink]
+    A --> F[LED Lighting]
+    style A fill:#f96,stroke:#333,stroke-width:4px
+    style B fill:#9cf,stroke:#333,stroke-width:2px
+    style C fill:#9cf,stroke:#333,stroke-width:2px
+    style D fill:#9cf,stroke:#333,stroke-width:2px
+    style E fill:#9cf,stroke:#333,stroke-width:2px
+    style F fill:#9cf,stroke:#333,stroke-width:2px
+```
 
 ### Bathroom Package
-- One-piece fiberglass units
-- Water-efficient fixtures
-- Ceramic tile flooring
-- Wood vanity with storage
-- Chrome accessory package
+```mermaid
+flowchart LR
+    A[Bathroom Package] --> B[Fiberglass Units]
+    A --> C[Quality Fixtures]
+    A --> D[Ceramic Tile]
+    A --> E[Storage Vanity]
+    style A fill:#99f,stroke:#333,stroke-width:4px
+    style B fill:#cfc,stroke:#333,stroke-width:2px
+    style C fill:#cfc,stroke:#333,stroke-width:2px
+    style D fill:#cfc,stroke:#333,stroke-width:2px
+    style E fill:#cfc,stroke:#333,stroke-width:2px
+```
 
 ### Interior Finishes
 - Commercial grade LVP flooring
@@ -110,14 +132,14 @@ graph TD
 ```mermaid
 gantt
     title Installation Timeline
-    dateFormat  YYYY-MM-DD
-    section Setup
-    Site Prep & Delivery    :a1, 2024-04-01, 2d
+    dateFormat YYYY-MM-DD
+    section Site Prep
+        Preparation & Delivery    :2024-04-01, 2d
     section MEP
-    Utility Connections    :a2, after a1  , 2d
+        Utility Connections      :2024-04-03, 2d
     section Finish
-    Interior Work         :a3, after a2  , 3d
-    Final Inspection      :a4, after a3  , 2d
+        Interior Work           :2024-04-05, 3d
+        Final Inspection        :2024-04-08, 2d
 ```
 
 ## 🛡️ Warranty Coverage

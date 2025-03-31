@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import remarkMermaid from 'mdx-mermaid';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -23,6 +24,12 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  markdown: {
+    mermaid: true,
+  },
+
+  themes: ['@docusaurus/theme-mermaid'],
+
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -38,6 +45,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/szemkoff/coreplus/tree/main/docs/',
+          remarkPlugins: [remarkMermaid],
         },
         theme: {
           customCss: './src/css/custom.css',
